@@ -3,6 +3,15 @@ This collection of mods were on my pc for way too long.
 I never finished this modpack because there is quite some work to do to get it running.  
 So maybe you'll find something really interesting here. :)  
 
+
+#### Zombie Apokalypse Playmode (without mods)
+
+
+https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-20/files/all?page=1&pageSize=20
+https://modrinth.com/resourcepack/fresh-animations/versions
+https://modrinth.com/datapack/guns++/versions
+
+
 #### Zombie Apokalypse Pack (for Singleplayer)
 
 - Minecraft Version: 1.20.1
