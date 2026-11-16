@@ -2,6 +2,11 @@ Here is a list that I had created during my time as an minecraft server hoster.
 Nowadays I do other things in life, but I'll leave it here so anyone can take a look and maybe find something interesting.  
 I don't remember if I ever used these plugins on my services. It's already around more than 5 years ago that I actually played minecraft and hosted servers.  
 
+Oh and here are the most used commands:
+1. /give <playername> item_frame 1 {EntityTag:{Invisible:1b}}
+2. /setblock ~ ~ ~ chest[facing=west,type=right]{Lock:"Schlüssel"} replace
+
+
 
 https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/
 https://dev.bukkit.org/projects/morph/files/3724554
